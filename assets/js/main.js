@@ -1,39 +1,6 @@
 (function ($) {
   "use strict";
 
-  /*
-  |--------------------------------------------------------------------------
-  | Template Name: Multim
-  | Author: Laralink
-  | Version: 1.0.0
-  |--------------------------------------------------------------------------
-  |--------------------------------------------------------------------------
-  | TABLE OF CONTENTS:
-  |--------------------------------------------------------------------------
-  |
-  | 1. Preloader
-  | 2. Mobile Menu
-  | 3. Sticky Header
-  | 4. Dynamic Background
-  | 5. General Toggle
-  | 6. Select 2
-  | 7. Slick Slider
-  | 9. Review
-  | 11. Modal Video
-  | 12. Hobble Effect
-  | 13. Parallax
-  | 14. Counter Animation
-  | 15. Tabs
-  | 17. Progress Bar
-  | 18. Team Member
-  | 20. Round Percent
-  | 21. Range slider
-  |
-  */
-
-  /*--------------------------------------------------------------
-    Scripts initialization
-  --------------------------------------------------------------*/
   $.exists = function (selector) {
     return $(selector).length > 0;
   };
